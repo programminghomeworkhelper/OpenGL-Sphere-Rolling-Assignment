@@ -1,2 +1,2 @@
-# OpenGL-Sphere-Rolling-Assignment
+# openGL-sphere-rolling-assignment
 This repository contains the solution for Assignment 4 related to Computer Graphics. It includes all necessary code files and documentation required to understand and implement the addition of fog, blending, texturing, and fireworks to an OpenGL demonstration of a sphere rolling in C++. This assignment was completed by an OpenGL Assignment Expert at [www.programminghomeworkhelp.com](https://www.programminghomeworkhelp.com/). For more assistance, check out our [OpenGL Assignment Help](https://www.programminghomeworkhelp.com/opengl/) services.
